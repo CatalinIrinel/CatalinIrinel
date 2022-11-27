@@ -11,9 +11,9 @@
 
 - 👨‍💻 All of my projects are available at [https://peakngo.com](https://peakngo.com)
 
-- 💬 Ask me about **projects, react, next**
+- 💬 Ask me about **my projects, react, next**
 
-- 📫 How to reach me **catalin@peakngo.com**
+- 📫 How to reach me? **catalin@peakngo.com**
 
 - 📄 Know about my experiences [https://peakngo.com/about](https://peakngo.com/about)
 
