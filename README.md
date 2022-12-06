@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=catalinirinel&label=Profile%20views&color=0e75b6&style=flat" alt="catalinirinel" /> </p>
 
-- 🔭 I’m currently working on **Bogdan Bola web-blog**
+- 🔭 I’m currently working on **Photographer's Presentation Website**
 
 - 🌱 I’m currently learning **Next JS**
 
